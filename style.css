@@ -1,0 +1,16 @@
+body
+{
+    background-color: aquamarine;
+}
+#Show_Score
+{
+    font-size: 30;
+    margin-left: 30px;
+}
+
+
+#Show_Time {
+    float: right;
+    margin-right: 20px;
+}
+ 
